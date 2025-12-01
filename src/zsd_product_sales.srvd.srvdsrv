@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for Product Sales'
+define service Zsd_product_sales {
+  expose ZC_PRODUCT_CONSUMPTION;
+}
